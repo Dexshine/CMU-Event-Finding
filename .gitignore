@@ -22,3 +22,9 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+
+.zip
+__MACOSX/
+package-lock.json
+FE.zip
+yarn.lock
